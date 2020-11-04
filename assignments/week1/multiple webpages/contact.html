@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+    <title>Contact</title>
+    
+    <link rel="stylesheet" href="styles/reset.css">
+    <link rel="stylesheet" href="styles/main.css">
+
+	 <link href="https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+	
+	<header>
+        <img src="images/american-flag-logo.jpg" width="225" 
+        height="150" alt="website logo">
+         <!-- calculate ratio to shrink to image to not lose distortion -->
+        <nav>
+            <ul id="nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main id="contact-page">
+        <div id="first-column">
+            <form>
+                <label for="fName">First name</label><br/>
+                <input type="text" id="fName"/><br/>
+                <label for="email">Email</label><br/>
+                <input type="text" id="email"/><br/>
+                <label for="subject">Subject</label><br/>
+                <input type="text"/><br/>
+                <label for="message">Message</label><br/>
+                <textarea id="message" rows="6"></textarea><br/>
+                <input type="reset"/><br/>
+                <inout type="submit"/>
+            </form>
+        </div><div id="second-column">
+                <h2>Address</h2>
+                <p>123 Some STREET, San Francisco, CA 94110</p>
+                <h2>phone number</h2>
+                <p><a href="Tel:+14152345678">14152345678</a></p>
+                <h2>email</h2>
+                <p>sample@gmail.com</p>
+        </div>
+    </main>
+    <footer>
+       <p>copyright@2020 Xiaoying Liu</p> 
+    </footer>
+</body>
+</html>

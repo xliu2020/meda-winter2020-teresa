@@ -1,0 +1,14 @@
+The file essay.txt contains a total of  961 letters.It has a total 203 words in it.
+It has a total of 8 sentences in it.
+The file essay.txt contains a total of  961 letters.It has a total 203 words in it.
+It has a total of 8 sentences in it.
+
+The file essay.txt contains a total of  961 letters.
+It has a total 203 words in it.
+It has a total of 8 sentences in it.
+essay2.txt
+
+
+The file essay2.txt contains a total of  0 letters.
+It has a total 1 words in it.
+It has a total of 0 sentences in it.
