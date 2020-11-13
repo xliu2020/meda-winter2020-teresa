@@ -1,0 +1,15 @@
+{
+  "name": "nodepackagepracitice",
+  "version": "1.0.0",
+  "description": "Practicing NPM and Node Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teresa",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.8",
+    "lodash": "^4.17.20"
+  }
+}

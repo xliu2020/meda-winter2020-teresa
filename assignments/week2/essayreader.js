@@ -85,7 +85,7 @@ for (let i = 0; i < contentArray.length; i++) {
 
 let thirdSentence =`It has a total of ${sentenceCount} sentences in it.`;
 console.log(thirdSentence);
-history += "\n" + thirdSentence +"\n";
+history += "\n" + thirdSentence +"\n\n";
 
 console.log(" ");
 console.log("statistics saved to the history");
