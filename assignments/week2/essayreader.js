@@ -7,7 +7,7 @@ let arguments = process.argv;
 // console.log(arguments);
 
 let history;
-//Check if we have an existing file called "hsitory.txt"
+//Check if we have an existing file called "history.txt"
 if (fs.existsSync("history.txt")) {
 
      history =fs.readFileSync("history.txt");
